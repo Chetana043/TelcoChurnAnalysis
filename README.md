@@ -37,11 +37,9 @@ Make sure these dependencies are installed before running the analysis.
 ## Usage
 
 1. Clone the repository or download the project files to your local machine.
-2. Ensure that the dataset file (`telco_churn.csv`) is located in the `data` directory.
+2. Ensure that the dataset files are located in the `data` directory.
 3. Open and run the Jupyter Notebook or Python script associated with the Telco Churn analysis.
 4. Follow the code comments and instructions within the notebook/script to execute the analysis step by step.
-5. Review the generated visualizations, analysis results, and insights obtained from the Telco Churn analysis.
-
 
 ## Acknowledgments
 
